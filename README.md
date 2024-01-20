@@ -13,7 +13,9 @@ The video can be found [here](https://www.youtube.com/watch?v=tlWSv2Or1Gs).
 
 ## Author
 
-- [@imoqen](https://www.github.com/imoqen)  [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imogen-pemberton/)Imogen Pemberton, 2022
+- [@imoqen](https://www.github.com/imoqen)\
+  [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imogen-pemberton/)\
+  Imogen Pemberton, 2022
 
 ## Documentation
 
