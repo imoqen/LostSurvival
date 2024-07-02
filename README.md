@@ -1,6 +1,7 @@
 # Lost Survival
 
-![lost-survival](https://github.com/imoqen/LostSurvival/assets/69257128/9724001c-e4ba-4a41-93cf-d305eb42fa46)
+![lost-survival](https://github.com/imoqen/LostSurvival/assets/69257128/a5246be8-4584-43b8-9e37-0cb49ff72017)
+
 
 This is the git repository for my A-Level Computer Science NEA Project,\
  "Lost Survival".\
