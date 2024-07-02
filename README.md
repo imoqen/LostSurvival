@@ -2,10 +2,10 @@
 
 ![lost-survival](https://github.com/imoqen/LostSurvival/assets/69257128/9724001c-e4ba-4a41-93cf-d305eb42fa46)
 
-This is the git repository for the scripts of my A-Level Computer Science NEA Project,\
+This is the git repository for my A-Level Computer Science NEA Project,\
  "Lost Survival".\
 This is a 3D, infinite procedurally generated world filled with randomly spawning zombies - the goal is to survive. The game also features a "peaceful" mode - suitable for children - where the goal is to collect gems within the infinite world, before the time runs out.\
-This project scored an A* grade at A-Level.
+This project, along with its documentation, scored an A* grade at A-Level.
 
 ## Video
 After completing this project, I created a YouTube video to illustrate how the game works.
