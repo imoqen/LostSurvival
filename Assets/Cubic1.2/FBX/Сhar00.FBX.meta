@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 94423d885db163845ae56701417b1a74
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base HumanHead
+    100002: Base HumanLCalf
+    100004: Base HumanLCollarbone
+    100006: Base HumanLDigit11
+    100008: Base HumanLDigit21
+    100010: Base HumanLFoot
+    100012: Base HumanLForearm
+    100014: Base HumanLPalm
+    100016: Base HumanLThigh
+    100018: Base HumanLUpperarm
+    100020: Base HumanNeck
+    100022: Base HumanPelvis
+    100024: Base HumanRCollarbone
+    100026: Base HumanRDigit11
+    100028: Base HumanRDigit21
+    100030: Base HumanRForearm
+    100032: Base HumanRibcage
+    100034: Base HumanRLegCalf
+    100036: Base HumanRLegFoot
+    100038: Base HumanRLegThigh
+    100040: Base HumanRPalm
+    100042: Base HumanRUpperarm
+    100044: Base HumanSpine
+    100046: bone_weapon_left001
+    100048: bone_weapon_right001
+    100050: char00
+    100052: //RootNode
+    100054: CharHead
+    100056: CharLCalf
+    100058: CharLCollarbone
+    100060: CharLDigit11
+    100062: CharLDigit21
+    100064: CharLFoot
+    100066: CharLForearm
+    100068: CharLPalm
+    100070: CharLThigh
+    100072: CharLUpperarm
+    100074: CharNeck
+    100076: CharPelvis
+    100078: CharRCollarbone
+    100080: CharRDigit11
+    100082: CharRDigit21
+    100084: CharRForearm
+    100086: CharRibcage
+    100088: CharRLegCalf
+    100090: CharRLegFoot
+    100092: CharRLegThigh
+    100094: CharRPalm
+    100096: CharRUpperarm
+    100098: CharSpine
+    100100: CharWeaponLeft
+    100102: CharWeaponRight
+    400000: Base HumanHead
+    400002: Base HumanLCalf
+    400004: Base HumanLCollarbone
+    400006: Base HumanLDigit11
+    400008: Base HumanLDigit21
+    400010: Base HumanLFoot
+    400012: Base HumanLForearm
+    400014: Base HumanLPalm
+    400016: Base HumanLThigh
+    400018: Base HumanLUpperarm
+    400020: Base HumanNeck
+    400022: Base HumanPelvis
+    400024: Base HumanRCollarbone
+    400026: Base HumanRDigit11
+    400028: Base HumanRDigit21
+    400030: Base HumanRForearm
+    400032: Base HumanRibcage
+    400034: Base HumanRLegCalf
+    400036: Base HumanRLegFoot
+    400038: Base HumanRLegThigh
+    400040: Base HumanRPalm
+    400042: Base HumanRUpperarm
+    400044: Base HumanSpine
+    400046: bone_weapon_left001
+    400048: bone_weapon_right001
+    400050: char00
+    400052: //RootNode
+    400054: CharHead
+    400056: CharLCalf
+    400058: CharLCollarbone
+    400060: CharLDigit11
+    400062: CharLDigit21
+    400064: CharLFoot
+    400066: CharLForearm
+    400068: CharLPalm
+    400070: CharLThigh
+    400072: CharLUpperarm
+    400074: CharNeck
+    400076: CharPelvis
+    400078: CharRCollarbone
+    400080: CharRDigit11
+    400082: CharRDigit21
+    400084: CharRForearm
+    400086: CharRibcage
+    400088: CharRLegCalf
+    400090: CharRLegFoot
+    400092: CharRLegThigh
+    400094: CharRPalm
+    400096: CharRUpperarm
+    400098: CharSpine
+    400100: CharWeaponLeft
+    400102: CharWeaponRight
+    2100000: char00
+    4300000: char00
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: char00
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: char00
+    second: {fileID: 2100000, guid: 567380595ec0dd44c963a63c6eec91ce, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: CharPelvis
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

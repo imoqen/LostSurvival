@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 77c78cc486d301e438c071ac29adc1da
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CharHead
+    100002: CharLCalf
+    100004: CharLCollarbone
+    100006: CharLDigit11
+    100008: CharLDigit21
+    100010: CharLFoot
+    100012: CharLForearm
+    100014: CharLPalm
+    100016: CharLThigh
+    100018: CharLUpperarm
+    100020: CharNeck
+    100022: CharPelvis
+    100024: CharRCollarbone
+    100026: CharRDigit11
+    100028: CharRDigit21
+    100030: CharRForearm
+    100032: CharRibcage
+    100034: CharRLegCalf
+    100036: CharRLegFoot
+    100038: CharRLegThigh
+    100040: CharRPalm
+    100042: CharRUpperarm
+    100044: CharSpine
+    100046: CharWeaponLeft
+    100048: CharWeaponRight
+    100050: //RootNode
+    100052: z11
+    400000: CharHead
+    400002: CharLCalf
+    400004: CharLCollarbone
+    400006: CharLDigit11
+    400008: CharLDigit21
+    400010: CharLFoot
+    400012: CharLForearm
+    400014: CharLPalm
+    400016: CharLThigh
+    400018: CharLUpperarm
+    400020: CharNeck
+    400022: CharPelvis
+    400024: CharRCollarbone
+    400026: CharRDigit11
+    400028: CharRDigit21
+    400030: CharRForearm
+    400032: CharRibcage
+    400034: CharRLegCalf
+    400036: CharRLegFoot
+    400038: CharRLegThigh
+    400040: CharRPalm
+    400042: CharRUpperarm
+    400044: CharSpine
+    400046: CharWeaponLeft
+    400048: CharWeaponRight
+    400050: //RootNode
+    400052: z11
+    2100000: z11
+    4300000: z11
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: z11
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: z11
+    second: {fileID: 2100000, guid: 973687d6237714f46b924e6ee12a8877, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: CharPelvis
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 94423d885db163845ae56701417b1a74,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
